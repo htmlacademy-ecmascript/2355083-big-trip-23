@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.d140b9df160e93f448d1.js","mappings":"AAAWA,SAASC,cAAc,QAC7BC,MAAMC,gBAAkB","sources":["webpack://big-trip/./src/main.js"],"sourcesContent":["let body = document.querySelector('body');\nbody.style.backgroundColor = 'green';\n"],"names":["document","querySelector","style","backgroundColor"],"sourceRoot":""}
