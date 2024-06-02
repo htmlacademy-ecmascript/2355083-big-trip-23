@@ -26,5 +26,8 @@
   "browserslist": [
     "last 1 version",
     "ie 10"
-  ]
+  ],
+  "dependencies": {
+    "flatpickr": "^4.6.13"
+  }
 }
