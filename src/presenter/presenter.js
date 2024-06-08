@@ -6,10 +6,7 @@ import * as rFunc from '../core/rander_funcs.js';
 //can has values: 'newPoint' or 'editPoint'.
 
 export const presenter = function () {
-
-  elems.newDotBtn.addEventListener('click',rFunc.newDotRender);
+  elems.newDotBtn.addEventListener('click', rFunc.newDotRender);
 
   rFunc.evtDotsRander();
 };
-
-
